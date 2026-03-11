@@ -23,8 +23,25 @@
 
 ---
 
-### 📊 Um pouco sobre mim:
-- 🔭 Atualmente trabalhando no projeto **api-pokemon**.
-- 🌱 Estudando profundamente **React** e integração com **Python**.
-- ☁️ Explorando soluções em **Cloud** e infraestrutura.
-- 💬 Pergunte-me sobre: HTML, CSS e Lógica de Programação.
+#### **Conecte-se comigo:**
+<div align="left">
+  <a href="https://www.linkedin.com/in/luiz-fernando-de-oliveira-fardim-b91308376/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-fardim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fardim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-fardim&theme=dracula"/>
+</div>
