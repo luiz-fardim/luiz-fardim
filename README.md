@@ -25,10 +25,10 @@
 
 #### **Conecte-se comigo:**
 <div align="left">
-  <a href="https://www.linkedin.com/in/luiz-fernando-de-oliveira-fardim-b91308376/" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-fernando-de-oliveira-fardim-3b1a963a6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:luizfernandofardim@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
