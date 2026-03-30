@@ -50,7 +50,7 @@ Um gerenciador completo de biblioteca onde foquei na experiência do desenvolved
 Se você curte falar sobre arquitetura backend, desafios de código ou tem uma vaga de Júnior no time, bora trocar uma ideia:
 
 - **LinkedIn:** [linkedin.com/in/luiz-fardim](https://linkedin.com/in/luiz-fardim)
-- **E-mail:** [luizfernandofardim@gmail.com]
+- **E-mail:** luizfernandofardim@gmail.com
 
 <div align="center">
   <sub>Construindo soluções, um commit de cada vez 🚀</sub>
