@@ -22,13 +22,13 @@ Atualmente, meu foco é construir bases sólidas: estou aprofundando em **Node.j
 
 ### 📂 No que tenho trabalhado?
 
-#### 🔐 [API de Autenticação](link-do-seu-repo)
+#### 🔐 [API de Autenticação](https://github.com/luiz-fardim/api-jwt)
 Não é apenas um login. Construí um sistema completo com foco em segurança:
 * **Arquitetura:** Organizado em camadas (Routes → Controllers → Services → Repositories).
 * **Segurança:** Senhas protegidas com Bcrypt e autenticação Stateless via JWT.
 * **Stack:** Node.js e `sqlite3`.
 
-#### 📚 [API de Livros (CRUD)](link-do-seu-repo)
+#### 📚 [API de Livros (CRUD)](https://github.com/luiz-fardim/api-crud-node)
 Um gerenciador completo de biblioteca onde foquei na experiência do desenvolvedor que consome a API:
 * **Validação Rigorosa:** Uso de Zod para garantir que nenhum dado inválido entre no banco.
 * **Funcionalidades:** Implementação de paginação e filtros inteligentes via query params.
@@ -36,10 +36,12 @@ Um gerenciador completo de biblioteca onde foquei na experiência do desenvolved
 
 ---
 
-### 📈 O que estou aprendendo agora?
-- [ ] **Prisma ORM:** Refinando a camada de dados com migrations e models.
-- [ ] **Testes:** Garantindo qualidade com Vitest e Supertest.
-- [ ] **TypeScript:** Migrando meus projetos para ganhar tipagem e segurança.
+### 🏗️ Canteiro de Obras: O que estou construindo agora
+
+* 🛠️ **Prisma ORM** — Refinando a camada de dados com migrations, models e relacionamentos.
+* 🧪 **Testes Automatizados** — Garantindo a qualidade e estabilidade com **Vitest** e **Supertest**.
+* 🚀 **Cloud & Deploy** — Tirando os projetos do "localhost" e levando para o mundo real via **Railway/Render**.
+* 💙 **TypeScript** — Evoluindo o stack para um desenvolvimento mais seguro e escalável.
 
 ---
 
