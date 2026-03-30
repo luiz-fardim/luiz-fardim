@@ -1,15 +1,55 @@
+<div align="center">
+  <h1>Olá, eu sou o Luiz 👋</h1>
+  <p><b>Dev em formação • Focado em Backend com Node.js • Explorando o que acontece por baixo dos panos</b></p>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luikznn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-de-oliveira-fardim-3b1a963a6/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@luikznn) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/luikznn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luizfernandofardim@gmail.com) 
+### 🧩 Sobre mim
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luiz-fardim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=luiz-fardim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fardim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Sou estudante de tecnologia e apaixonado pela lógica do backend. Sabe aquela curiosidade de entender como um token JWT é gerado ou como uma requisição navega por cada camada de uma API até chegar ao banco? É isso que me move.
+
+Atualmente, meu foco é construir bases sólidas: estou aprofundando em **Node.js**, **Express** e arquitetura de software, sempre buscando escrever códigos que não apenas funcionem, mas que sejam fáceis de manter. Estou pronto para encarar minha primeira oportunidade como Dev Júnior e contribuir com projetos reais.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luiz-fardim&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ No meu cinto de ferramentas
+
+* **Linguagens & Frameworks:** Node.js, Express, JavaScript (indo para o TypeScript!).
+* **Banco de Dados:** SQLite, MySQL (com foco em relacionamentos e queries eficientes).
+* **Segurança & Validação:** JWT, Bcrypt para criptografia e Zod para garantir a integridade dos dados.
+* **Workflow:** Git, GitHub, Insomnia/Postman e metodologias ágeis.
+
+---
+
+### 📂 No que tenho trabalhado?
+
+#### 🔐 [API de Autenticação](link-do-seu-repo)
+Não é apenas um login. Construí um sistema completo com foco em segurança:
+* **Arquitetura:** Organizado em camadas (Routes → Controllers → Services → Repositories).
+* **Segurança:** Senhas protegidas com Bcrypt e autenticação Stateless via JWT.
+* **Stack:** Node.js e `sqlite3`.
+
+#### 📚 [API de Livros (CRUD)](link-do-seu-repo)
+Um gerenciador completo de biblioteca onde foquei na experiência do desenvolvedor que consome a API:
+* **Validação Rigorosa:** Uso de Zod para garantir que nenhum dado inválido entre no banco.
+* **Funcionalidades:** Implementação de paginação e filtros inteligentes via query params.
+* **Padronização:** Respostas de erro claras e consistentes.
+
+---
+
+### 📈 O que estou aprendendo agora?
+- [ ] **Prisma ORM:** Refinando a camada de dados com migrations e models.
+- [ ] **Testes:** Garantindo qualidade com Vitest e Supertest.
+- [ ] **TypeScript:** Migrando meus projetos para ganhar tipagem e segurança.
+
+---
+
+### 📫 Vamos conversar?
+
+Se você curte falar sobre arquitetura backend, desafios de código ou tem uma vaga de Júnior no time, bora trocar uma ideia:
+
+- **LinkedIn:** [linkedin.com/in/luiz-fardim](https://linkedin.com/in/luiz-fardim)
+- **E-mail:** [luizfernandofardim@gmail.com]
+
+<div align="center">
+  <sub>Construindo soluções, um commit de cada vez 🚀</sub>
+</div>
