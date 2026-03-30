@@ -5,7 +5,7 @@
 
 ### 🧩 Sobre mim
 
-Sou estudante de tecnologia e apaixonado pela lógica do backend. Sabe aquela curiosidade de entender como um token JWT é gerado ou como uma requisição navega por cada camada de uma API até chegar ao banco? É isso que me move.
+Desenvolvedor em formação com foco em construir ecossistemas de backend sólidos. Sou movido pela complexidade do que acontece 'debaixo do capô': a arquitetura de APIs, a integridade dos dados e a orquestração de processos que tornam uma aplicação funcional e segura.
 
 Atualmente, meu foco é construir bases sólidas: estou aprofundando em **Node.js**, **Express** e arquitetura de software, sempre buscando escrever códigos que não apenas funcionem, mas que sejam fáceis de manter. Estou pronto para encarar minha primeira oportunidade como Dev Júnior e contribuir com projetos reais.
 
