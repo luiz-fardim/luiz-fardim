@@ -1,57 +1,169 @@
+<!-- HEADER -->
 <div align="center">
-  <h1>Olá, eu sou o Luiz 👋</h1>
-  <p><b>Dev em formação • Focado em Backend com Node.js • Explorando o que acontece por baixo dos panos</b></p>
+
+```
+██╗     ██╗   ██╗██╗███████╗    ███████╗ █████╗ ██████╗ ██████╗ ██╗███╗   ███╗
+██║     ██║   ██║██║╚══███╔╝    ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║████╗ ████║
+██║     ██║   ██║██║  ███╔╝     █████╗  ███████║██████╔╝██║  ██║██║██╔████╔██║
+██║     ██║   ██║██║ ███╔╝      ██╔══╝  ██╔══██║██╔══██╗██║  ██║██║██║╚██╔╝██║
+███████╗╚██████╔╝██║███████╗    ██║     ██║  ██║██║  ██║██████╔╝██║██║ ╚═╝ ██║
+╚══════╝ ╚═════╝ ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝     ╚═╝
+```
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Dev+em+forma%C3%A7%C3%A3o+%E2%80%94+focado+em+backend+com+Node.js;Curioso+pelo+que+acontece+por+baixo+dos+panos;Routes+%E2%86%92+Controllers+%E2%86%92+Services+%E2%86%92+Repositories)](https://git.io/typing-svg)
+
+<br/>
+
 </div>
 
-### 🧩 Sobre mim
+---
 
-Desenvolvedor em formação com foco em construir ecossistemas de backend sólidos. Sou movido pela complexidade do que acontece 'debaixo do capô': a arquitetura de APIs, a integridade dos dados e a orquestração de processos que tornam uma aplicação funcional e segura.
+<!-- SOBRE MIM -->
+## `$ whoami`
 
-Atualmente, meu foco é construir bases sólidas: estou aprofundando em **Node.js**, **Express** e arquitetura de software, sempre buscando escrever códigos que não apenas funcionem, mas que sejam fáceis de manter. Estou pronto para encarar minha primeira oportunidade como Dev Júnior e contribuir com projetos reais.
+```js
+const luiz = {
+  role     : "Dev em formação → Backend Jr.",
+  focus    : ["Node.js", "APIs REST", "Arquitetura em Camadas"],
+  driven_by: "A complexidade do que acontece debaixo do capô",
+  goal     : "Minha primeira vaga como Dev Júnior",
+  status   : "Construindo. Aprendendo. Commitando.",
+};
+```
+
+> *Movido pela complexidade do que acontece debaixo do capô: arquitetura de APIs, integridade de dados e a orquestração de processos que tornam uma aplicação funcional e segura.*
 
 ---
 
-### 🛠️ No meu cinto de ferramentas
-
-* **Linguagens & Frameworks:** Node.js, Express, JavaScript (indo para o TypeScript!).
-* **Banco de Dados:** SQLite, MySQL (com foco em relacionamentos e queries eficientes).
-* **Segurança & Validação:** JWT, Bcrypt para criptografia e Zod para garantir a integridade dos dados.
-* **Workflow:** Git, GitHub, Insomnia/Postman e metodologias ágeis.
-
----
-
-### 📂 No que tenho trabalhado?
-
-#### 🔐 [API de Autenticação](https://github.com/luiz-fardim/api-jwt)
-Não é apenas um login. Construí um sistema completo com foco em segurança:
-* **Arquitetura:** Organizado em camadas (Routes → Controllers → Services → Repositories).
-* **Segurança:** Senhas protegidas com Bcrypt e autenticação Stateless via JWT.
-* **Stack:** Node.js e `sqlite3`.
-
-#### 📚 [API de Livros (CRUD)](https://github.com/luiz-fardim/api-crud-node)
-Um gerenciador completo de biblioteca onde foquei na experiência do desenvolvedor que consome a API:
-* **Validação Rigorosa:** Uso de Zod para garantir que nenhum dado inválido entre no banco.
-* **Funcionalidades:** Implementação de paginação e filtros inteligentes via query params.
-* **Padronização:** Respostas de erro claras e consistentes.
-
----
-
-### 🏗️ Canteiro de Obras: O que estou construindo agora
-
-* 🛠️ **Prisma ORM** — Refinando a camada de dados com migrations, models e relacionamentos.
-* 🧪 **Testes Automatizados** — Garantindo a qualidade e estabilidade com **Vitest** e **Supertest**.
-* 🚀 **Cloud & Deploy** — Tirando os projetos do "localhost" e levando para o mundo real via **Railway/Render**.
-* 💙 **TypeScript** — Evoluindo o stack para um desenvolvimento mais seguro e escalável.
-
----
-
-### 📫 Vamos conversar?
-
-Se você curte falar sobre arquitetura backend, desafios de código ou tem uma vaga de Júnior no time, bora trocar uma ideia:
-
-- **LinkedIn:** [linkedin.com/in/luiz-fardim](https://linkedin.com/in/luiz-fardim)
-- **E-mail:** luizfernandofardim@gmail.com
+<!-- STACK -->
+## `$ ls -la ./stack`
 
 <div align="center">
-  <sub>Construindo soluções, um commit de cada vez 🚀</sub>
+
+**Runtime & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Segurança & Validação**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-338A3E?style=for-the-badge&logo=lock&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+<!-- PROJETOS -->
+## `$ cat ./projetos`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔐 [API de Autenticação](https://github.com/luiz-fardim/api-jwt)
+Não é apenas um login — é um sistema completo com foco em segurança real.
+
+```
+✦ Arquitetura em camadas
+  Routes → Controllers → Services → Repositories
+
+✦ Senhas criptografadas com Bcrypt
+✦ Autenticação Stateless via JWT
+✦ Stack: Node.js + SQLite
+```
+
+</td>
+    <td width="50%" valign="top">
+
+### 📚 [API de Livros — CRUD](https://github.com/luiz-fardim/api-crud-node)
+Gerenciador de biblioteca com foco na experiência de quem consome a API.
+
+```
+✦ Validação rigorosa com Zod
+  (nenhum dado inválido entra no banco)
+
+✦ Paginação + filtros via query params
+✦ Respostas de erro claras e padronizadas
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+<!-- CANTEIRO DE OBRAS -->
+## `$ git log --oneline --learning`
+
+```bash
+# O que está em andamento...
+
+[IN PROGRESS]  Prisma ORM      → migrations, models e relacionamentos
+[IN PROGRESS]  Testes          → Vitest + Supertest para garantir qualidade
+[NEXT]         Deploy          → Railway / Render (saindo do localhost!)
+[NEXT]         TypeScript      → stack mais seguro e escalável
+```
+
+<div align="center">
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+</div>
+
+---
+
+<!-- STATS -->
+## `$ git stats`
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luiz-fardim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fardim&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<!-- CONTATO -->
+## `$ curl --contact luiz`
+
+<div align="center">
+
+Curtiu falar sobre arquitetura backend, desafios de código ou tem uma vaga de Júnior no time?
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-fardim)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfernandofardim@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiz-fardim)
+
+<br/>
+
+```
+Construindo soluções, um commit de cada vez.
+```
+
+<br/>
+
+<sub>
+  <img src="https://komarev.com/ghpvc/?username=luiz-fardim&style=flat-square&color=00b4d8" alt="Profile views" />
+</sub>
+
 </div>
