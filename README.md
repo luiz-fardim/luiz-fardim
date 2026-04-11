@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Luiz Fardim</h2>
-  <p>Dev em formação &nbsp;·&nbsp; Backend com Node.js &nbsp;·&nbsp; Buscando minha primeira vaga Júnior</p>
+  <p>Backend Developer in training &nbsp;·&nbsp; Node.js focused &nbsp;·&nbsp; Open to Junior roles</p>
 
   <a href="https://linkedin.com/in/luiz-fardim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -17,12 +17,13 @@ Desenvolvedor com foco em construir APIs sólidas e bem estruturadas. Sou movido
 
 ---
 
-### Tecnologias
+### Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -34,19 +35,28 @@ Desenvolvedor com foco em construir APIs sólidas e bem estruturadas. Sou movido
 
 ---
 
-### Projetos
+### Projects
 
-**[🔐 API de Autenticação](https://github.com/luiz-fardim/api-jwt)**
+**[🔐 Authentication API](https://github.com/luiz-fardim/api-jwt)**
 Sistema completo de autenticação com foco em segurança. Organizado em camadas (Routes → Controllers → Services → Repositories), com senhas protegidas via Bcrypt e autenticação Stateless com JWT. Stack: Node.js + SQLite.
 
-**[📚 API de Livros — CRUD](https://github.com/luiz-fardim/api-crud-node)**
+**[📚 Books API — CRUD](https://github.com/luiz-fardim/api-crud-node)**
 Gerenciador de biblioteca com atenção à experiência de quem consome a API. Validação rigorosa com Zod, paginação e filtros por query params, e respostas de erro padronizadas.
 
 ---
 
-### Em aprendizado
+### Currently learning
 
-Atualmente aprofundando em **Prisma ORM**, **testes com Vitest + Supertest**, **deploy no Railway/Render** e migrando o stack para **TypeScript**.
+<div>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+</div>
+
+<br/>
+
+Aprofundando em **Prisma ORM**, **testes com Vitest + Supertest** e **deploy no Railway/Render**.
 
 ---
 
