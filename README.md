@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Luiz 👋</h1>
-  <p><b>Desenvolvedor Backend • Focado em Backend com Node.js • Explorando o que acontece por baixo dos panos</b></p>
+  <p><b>Desenvolvedor Backend • Focado em Backend com Node.js</b></p>
 </div>
 
 ### 🧩 Sobre mim
