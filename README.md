@@ -24,9 +24,9 @@ Minha rotina atual é dividida entre codar e estudar Node.js, TypeScript e boas 
 
 #### 🔐 [API de Autenticação](https://github.com/luiz-fardim/api-jwt)
 Não é apenas um login. Construí um sistema completo com foco em segurança:
-* **Arquitetura:** Organizado em camadas (Routes → Controllers → Services → Repositories).
+* **Arquitetura:** Organizado em camadas (Routes → Controllers → Services).
 * **Segurança:** Senhas protegidas com Bcrypt e autenticação Stateless via JWT.
-* **Stack:** Node.js e `sqlite3`.
+* **Stack:** Node.js e `MySQL`.
 
 #### 📚 [API de Biblioteca (CRUD)](https://github.com/luiz-fardim/api-crud-node)
 Um gerenciador completo de biblioteca onde foquei na experiência do desenvolvedor que consome a API:
