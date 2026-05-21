@@ -16,7 +16,7 @@ Minha rotina atual é dividida entre codar e estudar Node.js, TypeScript e boas 
 * **Linguagens & Frameworks:** Node.js, Express, Fastify, JavaScript, TypeScript.
 * **Banco de Dados:** PostgreSQL, MySQL, Prisma ORM.
 * **Segurança & Validação:** CORS, Helmet, rate-limit, JWT, Bcrypt para criptografia e Zod para garantir a integridade dos dados.
-* **Workflow:** Git/GitHub para versionamento e Insomnia/Postman para testes de API.
+* **Workflow:** Git/GitHub para versionamento, Insomnia/Postman para testes de API e Docker para conteinerização.
 
 ---
 
