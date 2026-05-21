@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Luiz 👋</h1>
-  <p><b>Desenvolvedor Backend • Focado em Backend com Node.js</b></p>
+  <p><b>Desenvolvedor Fullstack • Focado em Backend com Node.js</b></p>
 </div>
 
 ### 🧩 Sobre mim
@@ -13,9 +13,9 @@ Minha rotina atual é dividida entre codar e estudar Node.js, TypeScript e boas 
 
 ### 🛠️ Tech Stack
 
-* **Linguagens & Frameworks:** Node.js, Express, JavaScript, TypeScript.
-* **Banco de Dados:** SQLite, MySQL, Prisma ORM.
-* **Segurança & Validação:** JWT, Bcrypt para criptografia e Zod para garantir a integridade dos dados.
+* **Linguagens & Frameworks:** Node.js, Express, Fastify, JavaScript, TypeScript.
+* **Banco de Dados:** PostgreSQL, MySQL, Prisma ORM.
+* **Segurança & Validação:** CORS, Helmet, rate-limit, JWT, Bcrypt para criptografia e Zod para garantir a integridade dos dados.
 * **Workflow:** Git/GitHub para versionamento e Insomnia/Postman para testes de API.
 
 ---
