@@ -13,8 +13,8 @@ Minha rotina atual é dividida entre codar e estudar Node.js, TypeScript e boas 
 
 ### 🛠️ Tech Stack
 
-* **Linguagens & Frameworks:** Node.js, Express, Fastify, JavaScript, TypeScript.
-* **Banco de Dados:** PostgreSQL, MySQL, Prisma ORM.
+* **Linguagens & Frameworks:** Node.js, Express, NestJS, JavaScript, TypeScript.
+* **Banco de Dados:** PostgreSQL, MySQL, PrismaORM e TypeORM.
 * **Segurança & Validação:** CORS, Helmet, rate-limit, JWT, Bcrypt para criptografia e Zod para garantir a integridade dos dados.
 * **Workflow:** Git/GitHub para versionamento, Insomnia/Postman para testes de API e Docker para conteinerização.
 
