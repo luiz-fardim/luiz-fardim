@@ -20,7 +20,7 @@ Sou um desenvolvedor focado em construir o que não aparece na tela, mas que faz
 
 ### 📂 No que tenho trabalhado?
 
-#### ✅ [TaskAPI](https://github.com/luiz-fardim/api-tarefas-usuarios-auth)
+#### 📝 [TaskAPI](https://github.com/luiz-fardim/taskflow-api)
 API de gerenciamento de tarefas construída como laboratório prático de autenticação JWT — implementando o fluxo completo do zero: registro, hash de senha, geração de token e middleware de proteção de rotas.
 * **Arquitetura:** Camadas bem definidas (Controller → Service → Banco), com schemas de validação isolados e middlewares próprios para auth, validação e rate limit.
 * **Autenticação:** Registro e login com JWT + bcrypt, rotas de tarefas protegidas por Bearer Token.
@@ -30,7 +30,7 @@ API de gerenciamento de tarefas construída como laboratório prático de autent
 * **Stack:** Node.js, TypeScript, Express, Prisma ORM e MySQL.
 * **🔮 Próximos passos:** refresh token, testes automatizados com Jest, documentação via Swagger, paginação e roles de usuário.
 
-#### 🎯 [Bet Tracker API](https://github.com/luiz-fardim/bet-tracker-api)
+#### ⚽ [Bet Tracker API](https://github.com/luiz-fardim/bet-tracker)
 Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas esportivas dele e entender se estava saindo no lucro ou no prejuízo. Hoje já é uma API completa, em produção, e caminhando para virar um produto de verdade.
 * **Arquitetura:** Modular (NestJS), com separação clara entre `auth`, `bets`, `users` e `guards`.
 * **Autenticação & Autorização:** Login via JWT, rotas protegidas com Guards e controle de acesso por Roles (RBAC — admin/user).
@@ -45,8 +45,7 @@ Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas es
 
 ### 🏗️ O que estou aprendendo agora?
 
-* 🛠️ **Prisma ORM** — Refinando a camada de dados com migrations, models e relacionamentos.
-* 🧪 **Testes Automatizados** — Garantindo a qualidade e estabilidade com **Vitest** e **Supertest**.
+* 🧪 **Testes Automatizados** — Garantindo a qualidade e estabilidade com **Jest** e **Supertest**.
 * 🚀 **Cloud & Deploy** — Tirando os projetos do "localhost" e levando para o mundo real via **Railway/Render**.
 
 ---
