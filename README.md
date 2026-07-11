@@ -7,8 +7,6 @@
 
 Sou um desenvolvedor focado em construir o que não aparece na tela, mas que faz tudo funcionar. Gosto da complexidade do backend: organizar rotas, garantir que o banco de dados responda rápido e, principalmente, entender como cada peça se encaixa na arquitetura.
 
-Minha rotina atual é dividida entre codar e estudar Node.js, TypeScript e boas práticas de software. Acredito que código bom é código legível, e é nisso que foco em cada projeto que subo. Estou em busca da minha primeira oportunidade como Dev Júnior para aplicar o que aprendi em desafios reais e escalar junto com um time experiente.
-
 ---
 
 ### 🛠️ Tech Stack
@@ -22,17 +20,26 @@ Minha rotina atual é dividida entre codar e estudar Node.js, TypeScript e boas 
 
 ### 📂 No que tenho trabalhado?
 
-#### 🔐 [API de Autenticação](https://github.com/luiz-fardim/api-jwt)
-Não é apenas um login. Construí um sistema completo com foco em segurança:
-* **Arquitetura:** Organizado em camadas (Routes → Controllers → Services).
-* **Segurança:** Senhas protegidas com Bcrypt e autenticação Stateless via JWT.
-* **Stack:** Node.js, PrismaORM e MySQL.
+#### ✅ [TaskAPI](https://github.com/luiz-fardim/api-tarefas-usuarios-auth)
+API de gerenciamento de tarefas construída como laboratório prático de autenticação JWT — implementando o fluxo completo do zero: registro, hash de senha, geração de token e middleware de proteção de rotas.
+* **Arquitetura:** Camadas bem definidas (Controller → Service → Banco), com schemas de validação isolados e middlewares próprios para auth, validação e rate limit.
+* **Autenticação:** Registro e login com JWT + bcrypt, rotas de tarefas protegidas por Bearer Token.
+* **Segurança:** Helmet e rate limiting configurados para reforçar a postura de segurança da API.
+* **Validação:** Schemas com Zod garantindo integridade de dados em todas as entradas.
+* **Funcionalidades:** CRUD de tarefas por usuário autenticado (criar, listar, atualizar e remover).
+* **Stack:** Node.js, TypeScript, Express, Prisma ORM e MySQL.
+* **🔮 Próximos passos:** refresh token, testes automatizados com Jest, documentação via Swagger, paginação e roles de usuário.
 
-#### 📚 [API de Biblioteca (CRUD)](https://github.com/luiz-fardim/api-crud-node)
-Um gerenciador completo de biblioteca onde foquei na experiência do desenvolvedor que consome a API:
-* **Validação Rigorosa:** Uso de Zod para garantir que nenhum dado inválido entre no banco.
-* **Funcionalidades:** Implementação de paginação e filtros inteligentes via query params.
-* **Padronização:** Respostas de erro claras e consistentes.
+#### 🎯 [Bet Tracker API](https://github.com/luiz-fardim/bet-tracker-api)
+Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas esportivas dele e entender se estava saindo no lucro ou no prejuízo. Hoje já é uma API completa, em produção, e caminhando para virar um produto de verdade.
+* **Arquitetura:** Modular (NestJS), com separação clara entre `auth`, `bets`, `users` e `guards`.
+* **Autenticação & Autorização:** Login via JWT, rotas protegidas com Guards e controle de acesso por Roles (RBAC — admin/user).
+* **Regras de negócio:** Cálculo automático de lucro/prejuízo por aposta (`(odd × valor) - valor` em caso de vitória) e resumo do lucro total acumulado por usuário.
+* **Funcionalidades:** CRUD de apostas com paginação e filtro por status (pending/won/lost), cada usuário só acessa as próprias apostas.
+* **Qualidade:** Validação global de dados com class-validator e documentação interativa via Swagger.
+* **Stack:** NestJS, TypeScript, TypeORM, PostgreSQL, Docker & Docker Compose.
+* **🌐 Deploy:** [API em produção](https://bet-tracker-api-ynry.onrender.com/) • [Documentação Swagger](https://bet-tracker-api-ynry.onrender.com/api)
+* **🔮 Próximos passos:** integração com API-Football para atualização automática de resultados, filas com BullMQ + Redis, bot no Telegram para notificações e um dashboard em React/Next.js com gráficos de desempenho.
 
 ---
 
