@@ -28,7 +28,7 @@ API de gerenciamento de tarefas construída como laboratório prático de autent
 * **Validação:** Schemas com Zod garantindo integridade de dados em todas as entradas.
 * **Funcionalidades:** CRUD de tarefas por usuário autenticado (criar, listar, atualizar e remover).
 * **Stack:** Node.js, TypeScript, Express, Prisma ORM e MySQL.
-* **🔮 Próximos passos:** refresh token, testes automatizados com Jest, documentação via Swagger, paginação e roles de usuário.
+* **Próximos passos:** refresh token, testes automatizados com Jest, documentação via Swagger, paginação e roles de usuário.
 
 #### ⚽ [Bet Tracker API](https://github.com/luiz-fardim/bet-tracker)
 Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas esportivas dele e entender se estava saindo no lucro ou no prejuízo. Hoje já é uma API completa, em produção, e caminhando para virar um produto de verdade.
@@ -38,8 +38,8 @@ Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas es
 * **Funcionalidades:** CRUD de apostas com paginação e filtro por status (pending/won/lost), cada usuário só acessa as próprias apostas.
 * **Qualidade:** Validação global de dados com class-validator e documentação interativa via Swagger.
 * **Stack:** NestJS, TypeScript, TypeORM, PostgreSQL, Docker & Docker Compose.
-* **🌐 Deploy:** [API em produção](https://bet-tracker-api-ynry.onrender.com/) • [Documentação Swagger](https://bet-tracker-api-ynry.onrender.com/api)
-* **🔮 Próximos passos:** integração com API-Football para atualização automática de resultados, filas com BullMQ + Redis, bot no Telegram para notificações e um dashboard em React/Next.js com gráficos de desempenho.
+* **Deploy:** [API em produção](https://bet-tracker-api-ynry.onrender.com/) • [Documentação Swagger](https://bet-tracker-api-ynry.onrender.com/api)
+* **Próximos passos:** integração com API-Football para atualização automática de resultados, filas com BullMQ + Redis, bot no Telegram para notificações e um dashboard em React/Next.js com gráficos de desempenho.
 
 ---
 
