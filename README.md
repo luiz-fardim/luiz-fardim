@@ -20,7 +20,7 @@ Sou um desenvolvedor focado em construir o que não aparece na tela, mas que faz
 
 ### 📂 No que tenho trabalhado?
 
-#### 📝 [TaskAPI](https://github.com/luiz-fardim/taskflow-api)
+#### 📝 [TaskAPI](https://github.com/luiz-fardim/api-tarefas-usuarios-auth)
 API de gerenciamento de tarefas construída como laboratório prático de autenticação JWT — implementando o fluxo completo do zero: registro, hash de senha, geração de token e middleware de proteção de rotas.
 * **Arquitetura:** Camadas bem definidas (Controller → Service → Banco), com schemas de validação isolados e middlewares próprios para auth, validação e rate limit.
 * **Autenticação:** Registro e login com JWT + bcrypt, rotas de tarefas protegidas por Bearer Token.
