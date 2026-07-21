@@ -30,16 +30,16 @@ API de gerenciamento de tarefas construída como laboratório prático de autent
 * **Stack:** Node.js, TypeScript, Express, Prisma ORM e MySQL.
 * **Próximos passos:** refresh token, testes automatizados com Jest, documentação via Swagger, paginação e roles de usuário.
 
-#### ⚽ [Bet Tracker API](https://github.com/luiz-fardim/bet-tracker)
-Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas esportivas dele e entender se estava saindo no lucro ou no prejuízo. Hoje já é uma API completa, em produção, e caminhando para virar um produto de verdade.
-* **Arquitetura:** Modular (NestJS), com separação clara entre `auth`, `bets`, `users` e `guards`.
+#### 📈 [Investment Tracker API](https://github.com/luiz-fardim/transactions-tracker)
+Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas esportivas dele e entender se estava saindo no lucro ou no prejuízo. Evoluiu para uma API completa de controle de investimentos pessoais, em produção, e caminhando para virar um produto de verdade.
+* **Arquitetura:** Modular (NestJS), com separação clara entre `auth`, `transactions`, `users` e `guards`.
 * **Autenticação & Autorização:** Login via JWT, rotas protegidas com Guards e controle de acesso por Roles (RBAC — admin/user).
-* **Regras de negócio:** Cálculo automático de lucro/prejuízo por aposta (`(odd × valor) - valor` em caso de vitória) e resumo do lucro total acumulado por usuário.
-* **Funcionalidades:** CRUD de apostas com paginação e filtro por status (pending/won/lost), cada usuário só acessa as próprias apostas.
+* **Regras de negócio:** Cálculo automático de lucro/prejuízo por operação (`(preço de venda − preço de compra) × quantidade − taxas`) e resumo com investimento total, lucro acumulado e ROI por usuário.
+* **Funcionalidades:** CRUD de operações de investimento (ativo, corretora, quantidade, preços) com paginação e filtro por status (open/closed), cada usuário só acessa as próprias operações.
 * **Qualidade:** Validação global de dados com class-validator e documentação interativa via Swagger.
 * **Stack:** NestJS, TypeScript, TypeORM, PostgreSQL, Docker & Docker Compose.
-* **Deploy:** [API em produção](https://bet-tracker-api-ynry.onrender.com/) • [Documentação Swagger](https://bet-tracker-api-ynry.onrender.com/api)
-* **Próximos passos:** integração com API-Football para atualização automática de resultados, filas com BullMQ + Redis, bot no Telegram para notificações e um dashboard em React/Next.js com gráficos de desempenho.
+* **Deploy:** [API em produção](https://investment-tracker-api-9xxn.onrender.com) • [Documentação Swagger](https://investment-tracker-api-9xxn.onrender.com/api)
+* **Próximos passos:** integração com API de cotações em tempo real para atualização automática de preços, filas com BullMQ + Redis, bot no Telegram e resumo semanal por e-mail, e um dashboard em React/Next.js com gráficos de desempenho e ROI.
 
 ---
 
