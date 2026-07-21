@@ -43,13 +43,6 @@ Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas es
 
 ---
 
-### 🏗️ O que estou aprendendo agora?
-
-* 🧪 **Testes Automatizados** — Garantindo a qualidade e estabilidade com **Jest** e **Supertest**.
-* 🚀 **Cloud & Deploy** — Tirando os projetos do "localhost" e levando para o mundo real via **Railway/Render**.
-
----
-
 ### 📫 Vamos conversar?
 
 Se você curte falar sobre arquitetura backend, desafios de código ou tem uma vaga de Júnior no time, bora trocar uma ideia:
