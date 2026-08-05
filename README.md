@@ -30,7 +30,7 @@ API de gerenciamento de tarefas construída como laboratório prático de autent
 * **Stack:** Node.js, TypeScript, Express, Prisma ORM e MySQL.
 * **Próximos passos:** refresh token, testes automatizados com Jest, documentação via Swagger, paginação e roles de usuário.
 
-#### 📈 [Investment Tracker API](https://github.com/luiz-fardim/transactions-tracker)
+#### 📈 [Investment Tracker API](https://github.com/luiz-fardim/investment-tracker)
 Projeto que nasceu de um problema real: ajudar meu pai a organizar as apostas esportivas dele e entender se estava saindo no lucro ou no prejuízo. Evoluiu para uma API completa de controle de investimentos pessoais, em produção, e caminhando para virar um produto de verdade.
 * **Arquitetura:** Modular (NestJS), com separação clara entre `auth`, `transactions`, `users` e `guards`.
 * **Autenticação & Autorização:** Login via JWT, rotas protegidas com Guards e controle de acesso por Roles (RBAC — admin/user).
