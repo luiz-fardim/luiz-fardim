@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Luiz 👋</h1>
+<h1 align="center">Olá, eu sou o Luiz</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack focado em Backend com Node.js
+  Desenvolvedor Fullstack focado em Backend com Node
 </p>
 
 <p align="center">
@@ -15,17 +15,14 @@
 
 ---
 
-### 🧭 Sobre mim
+### Sobre mim
 
-Trabalho na parte que não aparece na tela: organização de rotas, arquitetura em camadas e garantia de que o sistema responda bem sob carga.
-
-Gosto de pensar em como um projeto vai escalar antes de escrever a primeira linha de código — arquitetura, segurança e performance são as partes que mais me interessam no dia a dia.
-
-🔭 Atualmente estudando arquitetura de microsserviços e boas práticas de escalabilidade.
+Trabalho na parte que geralmente é a que mais quebra a cabeça, e o código também. Gosto de construir coisas, ainda mais quando preciso pensar para fazer isso. 
+Sou um desenvolvedor full-stack mas com ênfase em back-end, crio APIs, faço deploy, subo banco de dados, escrevo testes e mais algumas coisas ai.
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 **Linguagens & Frameworks**
 
@@ -69,29 +66,17 @@ Gosto de pensar em como um projeto vai escalar antes de escrever a primeira linh
 
 ---
 
-### 🚀 Projetos
+### Projetos
 
-**[TaskAPI](https://github.com/luiz-fardim)**
-API de gerenciamento de tarefas construída como laboratório de autenticação JWT, com fluxo completo de registro, hash de senha e middleware de proteção de rotas. Arquitetura em camadas (Controller → Service → Banco), validação com Zod e rate limiting configurado.
-`Node.js` `Express` `Prisma` `MySQL`
+**[TaskAPI](https://github.com/luiz-fardim/api-tarefas-usuarios-auth)**
+Sistema desenvolvido com Typescript e PostgreSQL para gerenciar tarefas do dia a dia e com registro de usuários. Utilizei autenticação JWT com refresh tokens e escrevi testes unitários.
 
-**[Investment Tracker API](https://github.com/luiz-fardim)**
-API de controle de investimentos pessoais, em produção. Cálculo automático de lucro/prejuízo por operação, autenticação via JWT com controle de acesso por roles (RBAC) e documentação interativa via Swagger.
-`NestJS` `TypeScript` `TypeORM` `PostgreSQL` `Docker`
-&nbsp;·&nbsp; [API em produção](#) &nbsp;·&nbsp; [Documentação Swagger](#)
+**[Investment Tracker API](https://github.com/luiz-fardim/investment-tracker-api)**
+API para registrar investimentos - nasceu a partir de um problema de família que eu tive a iniciativa de solucionar - utilizei Typescript, NestJS, PostgreSQL com docker-compose e fiz deploy na Render juntamente com o banco de dados. Hoje em dia o servidor na Render não funciona mais porque não paguei, mas nos próximos projetos irei utilizar uma VPS paga.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiz-fardim&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-fardim" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-### 📫 Contato
+### Contato
 
 Aberto a oportunidades como desenvolvedor backend.
 
